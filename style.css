@@ -1,6 +1,7 @@
 * {
       box-sizing: border-box;
 }
+<<<<<<< HEAD
 p{
       color: aqua;
       font-size: 2rem;
@@ -17,4 +18,9 @@ ul {
       color: white;
       height: 500px;
       width: 100%;
+=======
+
+h2.blueHeader{
+      color:blue;
+>>>>>>> fd7469f59cbb8de34007439e5ac61547877d05fe
 }
